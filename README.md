@@ -33,6 +33,3 @@ datasets
 ## Run
 Demo can be ran using `python3 demo.py`
 The localization output will be placed under `output/JHU_CKPT` directory
-
-## More sample outputs
-Output samples of Shanghai Tech B test set can also be found under `https://drive.google.com/drive/folders/1q-qfp_PnnJUcd9sTU-dWGJOEsWt8ioFy?usp=sharing`
