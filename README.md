@@ -1,7 +1,7 @@
 ## Setup
 Requirement: Cuda 10.0 \
 Install dependencies: `pip install -r requirements.txt` \
-Install DCNv2: `cd models/DCNv2 & ./make.sh` \
+Install DCNv2: `cd models/DCNv2 & ./make.sh`
 
 The folder structure should be as follow:
 ```
